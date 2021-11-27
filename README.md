@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashu0vis
-- 👀 I’m interested in ... code
+- 👀 I’m interested in ... coding
 - 🌱 I’m currently learning ... bsc(it)
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... 9324573148

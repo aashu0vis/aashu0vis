@@ -2,7 +2,7 @@
 
 👀 I’m interested in coding and software development.
 
-🌱 I’m currently pursuing B.Sc (IT) and learning full-stack development at Scaler.
+🌱 I’m currently pursuing full-stack development at Scaler.
 
 💼 I’m currently working as an RPA Developer and looking for a new role as a Full Stack Developer.
 

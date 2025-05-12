@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @ashu0vis
-- 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... bsc(it)
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... 9324573148
+👋 Hi, I’m Ashu Vishwakarma (@ashu0vis)
 
-<!---
-aashu0vis/aashu0vis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m interested in coding and software development.
+
+🌱 I’m currently pursuing B.Sc (IT) and learning full-stack development at Scaler.
+
+💼 I’m currently working as an RPA Developer and looking for a new role as a Full Stack Developer.
+
+💞️ I’m looking to collaborate on software development projects.
+
+📫 How to reach me:
+
+Mobile: 7738045748
+
+Email: aashuvis123@gmail.com
